@@ -50,3 +50,9 @@ Many students get overwhelmed with so many questions and career routes. This pro
 **Nishika Gupta**\
 Aspiring Data Analyst\
 📧Email: krissinpeacetics@gmail.com
+
+## Note
+- This is a mini-project for practice and testing out my forecasting skills on Excel.
+- All the key findings and insight creation were done solely based on the dataset provided above.
+- Therefore, the insights shown above might not align with real-life scenarios
+  
