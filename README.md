@@ -3,7 +3,6 @@ Predictive data analysis on top trending data jobs to help candidates give an ov
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Project Dataset](#project-dataset)
 - [Business Problem](#business-problem)
 - [Tools and Technologies](#tools-and-technologies)
 - [Key Findings](#key-findings)
@@ -14,8 +13,6 @@ Predictive data analysis on top trending data jobs to help candidates give an ov
 A mini project about trending data jobs to find their sustainability in the future and help candidates stand out by making the right decisions based on key findings.
 This project uses Excel for forecasting and analysis.
 
-## Project Dataset
-Download the dataset from here 👉 [Download Dataset](data/job_prediction.xlsx)
 
 ## Business Problem
 Many students get overwhelmed with so many questions and career routes. This project aims to:
