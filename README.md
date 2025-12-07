@@ -39,7 +39,7 @@ Many students get overwhelmed with so many questions and career routes. This pro
 
 ## Final Recommendations
 
-- Take more time in career choice by analyzing future job predictions.
+- Take more time in career choice by analysing future job predictions.
 - Focus on upskilling.
 - Build connections for guidance and knowledge.
 - Apply to Medium-sized companies for a higher selection rate.
@@ -52,7 +52,7 @@ Aspiring Data Analyst\
 📧Email: krissinpeacetics@gmail.com
 
 ## Note
-- This is a mini-project for practice and testing out my forecasting skills on Excel.
+- This is a mini-project for practising and testing out my forecasting skills on Excel.
 - All the key findings and insight creation were done solely based on the dataset provided above.
 - Therefore, the insights shown above might not align with real-life scenarios
   
